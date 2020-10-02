@@ -1,3 +1,3 @@
-"# Attendance-Tracker" 
---> Used for college students to track their attendance status in Excel sheet.
---> Mainly predicts the number of more classes to attend to over come attendance shortage.
+"Attendance-Tracker" 
+--> College students can track their attendance status using Excel sheet.
+--> Predicts the number of classes required to overcome attendance shortage.
